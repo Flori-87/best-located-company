@@ -1,0 +1,907 @@
+,name,category_code,number_of_employees,founded_year,city,office,state,total_money_raised ($k),money_state
+6,Digg,news,60.0,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.394523, 37.764726]}",success,45000.0,success
+8,Scribd,news,50.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.404052, 37.789634]}",success,25800.0,success
+14,StumbleUpon,web,,2002.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,18500.0,success
+22,Twitter,social,1300.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4169244, 37.7768052]}",success,1160000.0,success
+24,Powerset,search,60.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.395289, 37.778613]}",success,22500.0,success
+25,Technorati,advertising,35.0,2002.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.393041, 37.779558]}",success,32100.0,success
+29,AddThis,advertising,120.0,2004.0,San Francisco,,Invalid lat and long,73000.0,success
+30,Kyte,games_video,40.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.409173, 37.788482]}",success,23400.0,success
+38,Wesabe,web,,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.402567, 37.793148]}",success,4700.0,success
+45,Prosper,finance,,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.402524, 37.78976]}",success,120000.0,success
+54,Ustream,games_video,250.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.07948, 37.392936]}",success,60100.0,success
+60,Pownce,web,6.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.397224, 37.762541]}",success,0.0,success2
+63,Revision3,games_video,,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.388243, 37.757758]}",success,9000.0,success
+66,CastTV,games_video,0.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.393913, 37.780716]}",success,3100.0,success
+67,iSkoot,mobile,,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.396744, 37.780134]}",success,32200.0,success
+82,blinkx,games_video,,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.395089, 37.793819]}",success,0.0,success2
+86,Mashery,enterprise,0.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4038047, 37.7870842]}",success,34700.0,success
+91,Zooomr,web,,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,50.0,success
+95,Yelp,search,800.0,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.402195, 37.786183]}",success,90000.0,success
+100,Pageflakes,web,20.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.414689, 37.758113]}",success,4100.0,success
+101,Instructables,web,,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4058887, 37.7791761]}",success,0.0,success2
+103,KickApps,enterprise,72.0,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4016144, 37.7891086]}",success,32000.0,success
+105,BabyCenter,web,,1997.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.397977, 37.778076]}",success,0.0,success2
+108,Slide,public_relations,64.0,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.392144, 37.781427]}",success,78000.0,success
+111,Netvibes,web,35.0,2005.0,San Francisco,,Invalid lat and long,16000.0,success
+112,Swivel,search,1.0,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.395184, 37.789268]}",success,2000.0,success
+115,Dogster,web,,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.400909, 37.762681]}",success,1000.0,success
+119,Bebo,web,0.0,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.401116, 37.782103]}",success,15000.0,success
+120,Google,search,28000.0,1998.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.389757, 37.789803]}",success,555000.0,success
+125,Loomia,web,,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.404869, 37.796396]}",success,7500.0,success
+126,adBrite,advertising,50.0,2003.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.40184, 37.779026]}",success,40400.0,success
+129,Meebo,web,200.0,2005.0,San Francisco,,Invalid lat and long,70000.0,success
+132,Eventbrite,web,200.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.39071, 37.779507]}",success,140000.0,success
+143,GigaOM,news,75.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,14300.0,success
+150,Techmeme,web,11.0,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3985871, 37.7618242]}",success,0.0,success2
+152,Seesmic,web,13.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,16000.0,success
+159,Ujogo,web,6.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.392861, 37.76785]}",success,0.0,success2
+166,GoingOn,software,40.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.392142, 37.782263]}",success,8500.0,success
+169,Flixster,web,75.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.406676, 37.766909]}",success,7180.0,success
+170,Vast,ecommerce,,2001.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.397759, 37.787183]}",success,0.0,success2
+171,Piczo,network_hosting,,1990.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.398479, 37.793703]}",success,11000.0,success
+186,PowerReviews,social,120.0,,San Francisco,"{'type': 'Point', 'coordinates': [-122.393041, 37.779558]}",success,40100.0,success
+187,hi5,games_video,100.0,2003.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.400558, 37.788668]}",success,52000.0,success
+188,Tagged,social,162.0,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4186, 37.7753]}",success,28700.0,success
+205,Curse,games_video,58.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.399972, 37.787092]}",success,12000.0,success
+207,eBuddy,messaging,90.0,2003.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.410943, 37.787683]}",success,12535.0,success
+209,Kiptronic,advertising,20.0,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.402349, 37.792394]}",success,7300.0,success
+210,Grockit,social,25.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,44700.0,success
+211,FeVote,web,1.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.417928, 37.779392]}",success,0.0,success2
+237,Reddit,web,,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.395257, 37.780883]}",success,100.0,success
+238,Wikia,web,,2006.0,San Francisco,,Invalid lat and long,24800.0,success
+268,Snapfish,network_hosting,,1999.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.396689, 37.78554]}",success,43500.0,success
+290,Viagogo,ecommerce,,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-0.126236, 51.500152]}",success,65000.0,success
+295,Scrybe,enterprise,20.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-74.761403, 40.270666]}",success,1310.0,success
+301,Metacafe,games_video,,2003.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.159928, 37.437328]}",success,50000.0,success
+303,webcrossing,web,10.0,,San Francisco,"{'type': 'Point', 'coordinates': [-122.399646, 37.794649]}",success,0.0,success2
+307,Kontera,advertising,,2003.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.411157, 37.767575]}",success,36100.0,success
+308,ChaCha,advertising,70.0,2005.0,San Francisco,,Invalid lat and long,89000.0,success
+311,Dropbox,software,350.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4084994, 37.7909427]}",success,257000.0,success
+319,IODA,games_video,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.396744, 37.780134]}",success,0.0,success2
+320,Snocap,games_video,,,San Francisco,,Invalid lat and long,25000.0,success
+324,TokBox,messaging,55.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.39071, 37.779507]}",success,26000.0,success
+326,Jimdo,web,170.0,2007.0,San Francisco,,Invalid lat and long,0.0,success2
+329,Weebly,web,70.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.400729, 37.795555]}",success,670.0,success
+330,Yola,web,70.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3954751, 37.7911148]}",success,25000.0,success
+331,BitTorrent,web,80.0,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.394668, 37.790998]}",success,40800.0,success
+332,Kongregate,games_video,20.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.401245, 37.786942]}",success,19000.0,success
+333,DanceJam,games_video,0.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.407959, 37.781557]}",success,4500.0,success
+342,Eventbee,web,,2003.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.007172, 37.383779]}",success,0.0,success2
+344,Guba,web,,1998.0,San Francisco,"{'type': 'Point', 'coordinates': [-95.712891, 37.09024]}",success,0.0,success2
+349,Kiva,finance,,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4147, 37.762125]}",success,9000.0,success
+351,Pixsy Image Search,search,0.0,,San Francisco,"{'type': 'Point', 'coordinates': [-122.393041, 37.779558]}",success,0.0,success2
+352,Fathom Online,advertising,,2002.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,6000.0,success
+358,Zivity,network_hosting,16.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.397593, 37.789488]}",success,8000.0,success
+375,DotBlu,web,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-95.712891, 37.09024]}",success,2250.0,success
+376,TechCrunch,news,,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.1490582, 37.4459832]}",success,0.0,success2
+379,Mevio,games_video,,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.392142, 37.782263]}",success,48900.0,success
+389,Atom Entertainment,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.401128, 37.790964]}",success,22900.0,success
+402,Greystripe,advertising,90.0,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.39323, 37.710677]}",success,17600.0,success
+405,Trulia,search,500.0,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.406676, 37.766909]}",success,255000.0,success
+430,OpenTable,web,550.0,1998.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.405265, 37.785647]}",success,48000.0,success
+442,Adknowledge,advertising,300.0,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.401406, 37.78866]}",success,248000.0,success
+480,MicroPlace,web,15.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+492,Crunchyroll,games_video,50.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.393229, 37.781265]}",success,4800.0,success
+499,CircleUp,finance,11.0,2011.0,San Francisco,,Invalid lat and long,9000.0,success
+505,imeem,music,55.0,2003.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.391236, 37.779624]}",success,24800.0,success
+520,BeFunky,photo_video,6.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4194155, 37.7749295]}",success,1650.0,success
+526,WooMe,web,51.0,2000.0,San Francisco,,Invalid lat and long,17400.0,success
+529,TripIt,travel,63.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.402021, 37.764169]}",success,13100.0,success
+535,YourStreet,web,6.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.421341, 37.793742]}",success,250.0,success
+569,Auctomatic,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.389676, 37.786175]}",success,400.0,success
+589,Boomi,enterprise,35.0,2000.0,San Francisco,,Invalid lat and long,4900.0,success
+593,Data360,web,0.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.306571, 37.799549]}",success,0.0,success2
+597,Animoto,music,60.0,2006.0,San Francisco,,Invalid lat and long,30000.0,success
+603,Jawbone,hardware,,1999.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.402866, 37.768708]}",success,403000.0,success
+607,Xobni,software,0.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.404052, 37.789634]}",success,41800.0,success
+622,GroupSwim,software,9.0,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.393041, 37.779558]}",success,0.0,success2
+646,Vestopia,web,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.403486, 37.792262]}",success,0.0,success2
+648,3Jam,mobile,,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4044034, 37.765125]}",success,4000.0,success
+649,PlaySpan,games_video,,2006.0,San Francisco,,Invalid lat and long,46300.0,success
+654,Zannel,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,16000.0,success
+663,Wikinvest,web,,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,2500.0,success
+668,Rupture,games_video,25.0,,San Francisco,"{'type': 'Point', 'coordinates': [-122.395234, 37.783898]}",success,3000.0,success
+685,Whiskey Media,web,12.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.495222, 37.856331]}",success,4000.0,success
+688,SnapLayout,network_hosting,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,650.0,success
+704,Blurb,ecommerce,150.0,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.40414, 37.792968]}",success,21600.0,success
+707,The Climate Corporation,cleantech,150.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.394354, 37.782809]}",success,109000.0,success
+711,Automattic,web,200.0,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.421344, 37.744274]}",success,30600.0,success
+715,Radar Networks,advertising,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.398058, 37.7753]}",success,24000.0,success
+723,Wix,web,400.0,2006.0,San Francisco,,Invalid lat and long,58500.0,success
+732,tyntec,mobile,150.0,2002.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.398125, 37.7911209]}",success,0.0,success2
+734,Crusher,web,3.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.430127, 37.772542]}",success,0.0,success2
+736,Marakana,education,0.0,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.394265, 37.789498]}",success,200.0,success
+749,eXelate,advertising,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3990501, 37.787249]}",success,32000.0,success
+751,blueKiwi,enterprise,30.0,2006.0,San Francisco,,Invalid lat and long,12300.0,success
+752,Socializr,network_hosting,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.395602, 37.77759]}",success,2250.0,success
+756,Gydget,web,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.398398, 37.791733]}",success,1000.0,success
+764,Songbird,mobile,,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.39783, 37.787126]}",success,11000.0,success
+775,Disqus,web,43.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.397672, 37.786906]}",success,10500.0,success
+781,Vitrue,enterprise,,2006.0,San Francisco,,Invalid lat and long,33000.0,success
+797,mDialog,advertising,,2005.0,San Francisco,,Invalid lat and long,8150.0,success
+801,BrightRoll,advertising,,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.401144, 37.794643]}",success,46000.0,success
+812,Dipity,web,4.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.394958, 37.781262]}",success,900.0,success
+813,Doppelganger,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.413912, 37.762162]}",success,11000.0,success
+815,Turn,advertising,,2004.0,San Francisco,,Invalid lat and long,61100.0,success
+825,Adteractive,advertising,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.396689, 37.78554]}",success,5100.0,success
+826,Podaddies,advertising,,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4099154, 37.7726402]}",success,1000.0,success
+870,Frappr,web,,2005.0,San Francisco,,Invalid lat and long,0.0,success2
+874,GameLayers,web,5.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.402468, 37.803847]}",success,2000.0,success
+892,beRecruited,sports,,2000.0,San Francisco,"{'type': 'Point', 'coordinates': [-84.389663, 33.754487]}",success,1200.0,success
+893,Ingenio,advertising,120.0,1999.0,San Francisco,,Invalid lat and long,0.0,success2
+902,Splunk,software,500.0,2003.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.390945, 37.78274]}",success,40000.0,success
+960,expensr,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+962,Dapper,advertising,30.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3938931, 37.7766184]}",success,3000.0,success
+966,FFWD Wheels,web,,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+967,Masala,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-95.712891, 37.09024]}",success,4500.0,success
+976,Uversity,social,30.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4194155, 37.7749295]}",success,10200.0,success
+979,LiveJournal,software,25.0,1999.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3975878, 37.7799872]}",success,0.0,success2
+985,AppJet,web,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,715.0,success
+993,Goodreads,web,70.0,2007.0,San Francisco,,Invalid lat and long,2750.0,success
+999,HubPages,web,21.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3991505, 37.7876952]}",success,8000.0,success
+1014,PlayFirst,games_video,,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.40185, 37.790346]}",success,37700.0,success
+1016,Mobissimo,search,15.0,2003.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.39897, 37.78624]}",success,1000.0,success
+1018,Deem,ecommerce,400.0,2000.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.271532, 37.559836]}",success,467000.0,success
+1029,Causes,nonprofit,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.272513, 37.870258]}",success,16400.0,success
+1030,Atlassian,enterprise,,2002.0,San Francisco,,Invalid lat and long,60000.0,success
+1032,Shozu,mobile,,2001.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.402683, 37.771706]}",success,36000.0,success
+1051,Truveo,web,30.0,2004.0,San Francisco,,Invalid lat and long,0.0,success2
+1057,Kenshoo,advertising,,2006.0,San Francisco,,Invalid lat and long,12000.0,success
+1062,Scrapblog,web,,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-80.25468, 25.752358]}",success,10000.0,success
+1070,Meraki,network_hosting,,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.072517, 37.392443]}",success,80000.0,success
+1081,Mogad,network_hosting,2.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.421778, 37.763652]}",success,500.0,success
+1087,Outspark,games_video,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,23300.0,success
+1088,Kadoink,mobile,,,San Francisco,,Invalid lat and long,9500.0,success
+1097,Joyent,enterprise,,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.480153, 37.856743]}",success,112000.0,success
+1099,NuConomy,advertising,12.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.430411, 37.795191]}",success,3300.0,success
+1102,DoYouBuzz,web,12.0,2007.0,San Francisco,,Invalid lat and long,0.0,success2
+1103,Widgetbox,other,30.0,2012.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.398599, 37.798853]}",success,14500.0,success
+1108,AF83,web,55.0,2006.0,San Francisco,,Invalid lat and long,0.0,success2
+1126,Smaato,advertising,95.0,2005.0,San Francisco,,Invalid lat and long,18000.0,success
+1134,Credit Karma,finance,70.0,2007.0,San Francisco,,Invalid lat and long,33000.0,success
+1141,Zynga,games_video,115.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.404234, 37.765158]}",success,860000.0,success
+1144,Quantcast,advertising,0.0,2006.0,San Francisco,,Invalid lat and long,61200.0,success
+1153,Roost,software,15.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4020276, 37.7891288]}",success,13500.0,success
+1168,clipsync,web,28.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-121.9317853, 37.2906027]}",success,1510.0,success
+1171,Lookery,web,9.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.403865, 37.788266]}",success,3150.0,success
+1172,IPRO,web,,2004.0,San Francisco,,Invalid lat and long,0.0,success2
+1177,Heroku,enterprise,80.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,13000.0,success
+1180,XLR8 Mobile,web,21.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.38944, 37.788827]}",success,0.0,success2
+1233,Craigslist,web,25.0,1995.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.46649, 37.762512]}",success,13500.0,success
+1264,Offermatica,software,,1996.0,San Francisco,,Invalid lat and long,7000.0,success
+1268,Salesforce,enterprise,3500.0,1999.0,San Francisco,,Invalid lat and long,99900.0,success
+1269,Sightix,web,12.0,2006.0,San Francisco,,Invalid lat and long,0.0,success2
+1276,Bia2,web,,2003.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4428064, 37.7466655]}",success,0.0,success2
+1286,Gliffy,software,14.0,2005.0,San Francisco,,Invalid lat and long,0.0,success2
+1288,Unknown Vector,web,7.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.404488, 37.790032]}",success,0.0,success2
+1296,MyNewPlace,web,,1999.0,San Francisco,,Invalid lat and long,20000.0,success
+1298,Kazowie,web,6.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.395792, 37.776467]}",success,0.0,success2
+1309,GameDuell,games_video,200.0,2003.0,San Francisco,,Invalid lat and long,17500.0,success
+1311,What They Like,web,10.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3921102, 37.7776778]}",success,990.0,success
+1312,Pyra Labs,,,1999.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+1313,Neotonic Software,software,,2001.0,San Francisco,,Invalid lat and long,0.0,success2
+1324,ManageMyAdvertising,web,1.0,1997.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.398599, 37.798853]}",success,0.0,success2
+1347,Pivotal Labs,consulting,225.0,1989.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.404403, 37.78691]}",success,0.0,success2
+1348,Iminta,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.4721542, 45.6667514]}",success,0.0,success2
+1356,Three Rings,web,30.0,2001.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,7000.0,success
+1357,PicScout,web,40.0,2002.0,San Francisco,,Invalid lat and long,0.0,success2
+1386,Fat Goose,web,2.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4033943, 37.7876175]}",success,0.0,success2
+1410,MOG,music,60.0,2005.0,San Francisco,,Invalid lat and long,24900.0,success
+1425,Gorilla Nation Media,web,163.0,2001.0,San Francisco,,Invalid lat and long,0.0,success2
+1449,Coverity,enterprise,300.0,2002.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3931128, 37.7759675]}",success,22000.0,success
+1451,Chowhound,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.3975827, 37.7862705]}",success,0.0,success2
+1462,fotopedia,news,17.0,2008.0,San Francisco,,Invalid lat and long,12700.0,success
+1471,YouNoodle,analytics,18.0,2010.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.395875, 37.7766587]}",success,0.0,success2
+1484,doubleTwist,software,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,7500.0,success
+1502,Hotwire,web,,2000.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.403607, 37.795236]}",success,0.0,success2
+1522,Pentaho,analytics,150.0,2004.0,San Francisco,,Invalid lat and long,72000.0,success
+1524,StubHub,ecommerce,1250.0,2000.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3951844, 37.7892685]}",success,0.0,success2
+1546,Ad Infuse,advertising,,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.404571, 37.793375]}",success,17600.0,success
+1567,SendMe,mobile,,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.39783, 37.787126]}",success,34500.0,success
+1574,Tiny Pictures,mobile,18.0,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.406912, 37.781002]}",success,11200.0,success
+1588,Flurry,advertising,150.0,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.394067, 37.783046]}",success,63300.0,success
+1602,Reble,software,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+1604,Skobee,web,,,San Francisco,,Invalid lat and long,0.0,success2
+1612,The Industry Standard,web,4.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.393323, 37.783151]}",success,0.0,success2
+1615,Evri,news,35.0,2007.0,San Francisco,,Invalid lat and long,11800.0,success
+1627,Y Combinator,finance,5.0,2005.0,San Francisco,,Invalid lat and long,10300.0,success
+1640,Surf Canyon,search,4.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.266978, 37.80294]}",success,750.0,success
+1648,Fifteen Reasons,web,6.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-87.646307, 41.948365]}",success,0.0,success2
+1663,Bleacher Report,sports,22.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.395792, 37.776467]}",success,40500.0,success
+1671,Particle,web,12.0,2008.0,San Francisco,,Invalid lat and long,900.0,success
+1681,Heavy Electrons,web,,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4025016, 37.7809512]}",success,0.0,success2
+1694,Vector Capital,,,1997.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.402667, 37.793473]}",success,0.0,success2
+1703,Internet Archive,education,,1996.0,San Francisco,,Invalid lat and long,0.0,success2
+1717,AtomicOnline,web,110.0,2004.0,San Francisco,,Invalid lat and long,0.0,success2
+1723,Sportgenic,advertising,15.0,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.40094, 37.790485]}",success,11500.0,success
+1724,Fanpop,web,4.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.439512, 37.758229]}",success,0.0,success2
+1733,99designs,design,100.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4005983, 37.7955307]}",success,35000.0,success
+1748,LiveRail,advertising,110.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.397759, 37.787183]}",success,12000.0,success
+1749,Minor Studios,software,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.395184, 37.789268]}",success,0.0,success2
+1752,OpenDNS,security,200.0,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.395184, 37.789268]}",success,16300.0,success
+1763,GoodBarry,enterprise,,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.410943, 37.787683]}",success,0.0,success2
+1822,Lindotiger,advertising,20.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-121.28, 38.7072]}",success,0.0,success2
+1823,Skimlinks,advertising,40.0,2006.0,San Francisco,,Invalid lat and long,7020.0,success
+1849,Astoria Software,software,,1996.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.40264, 37.798684]}",success,0.0,success2
+1862,Clickpass,web,90.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,20.0,success
+1871,SearchMe,search,52.0,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.402667, 37.793473]}",success,43600.0,success
+1879,Posit Science,biotech,,2002.0,San Francisco,,Invalid lat and long,11800.0,success
+1894,Discovery Engine,search,10.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.402609, 37.800356]}",success,0.0,success2
+1899,Cognitive Labs,web,,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.084171, 37.386665]}",success,0.0,success2
+1900,Acendi Interactive,security,,,San Francisco,,Invalid lat and long,2090.0,success
+1902,PopularMedia,advertising,,2003.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.411157, 37.767575]}",success,12300.0,success
+1916,Sprout,advertising,18.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.418137, 37.755012]}",success,8300.0,success
+1929,Snaptalent,web,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.397672, 37.786906]}",success,0.0,success2
+1938,TeamWork Live,enterprise,,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.46487, 37.762583]}",success,0.0,success2
+1941,Daikana,network_hosting,1.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.420903, 37.796164]}",success,0.0,success2
+1955,Rackspace,software,,1998.0,San Francisco,,Invalid lat and long,0.0,success2
+1957,Success Metrics,software,,,San Francisco,,Invalid lat and long,0.0,success2
+1961,Starmine,other,,1998.0,San Francisco,,Invalid lat and long,0.0,success2
+1963,Elastra,software,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.391843, 37.791137]}",success,14600.0,success
+1970,kwiry,mobile,3.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4035985, 37.7885714]}",success,1000.0,success
+1975,CITTIO,software,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.4014585, 37.7867612]}",success,11500.0,success
+1978,SignalDemand,software,,2004.0,San Francisco,,Invalid lat and long,30000.0,success
+1979,Aria Systems,enterprise,,2003.0,San Francisco,,Invalid lat and long,81200.0,success
+1982,Webpass,web,,2003.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4209958, 37.7834147]}",success,0.0,success2
+1983,MyBlogLog,web,,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+1988,Rapt,software,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.391061, 37.781689]}",success,11200.0,success
+1995,Ninite,enterprise,2.0,2009.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.412893, 37.789349]}",success,0.0,success2
+1998,Wundrbar,search,2.0,2008.0,San Francisco,,Invalid lat and long,0.0,success2
+2003,Coordinatr,software,2.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.427021, 37.804477]}",success,0.0,success2
+2007,Whitenoise Networks,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.469343, 37.764188]}",success,0.0,success2
+2012,Socialmoth,web,,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.450011, 37.766]}",success,0.0,success2
+2059,ReadBurner,web,4.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4042586, 37.80391]}",success,0.0,success2
+2075,liveBooks,public_relations,53.0,2005.0,San Francisco,,Invalid lat and long,5000.0,success
+2092,Viddyou,games_video,5.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+2118,PopJax,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.403755, 37.796216]}",success,4700.0,success
+2126,Liftopia,ecommerce,35.0,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.420903, 37.796164]}",success,7300.0,success
+2139,LookSmart,advertising,,1998.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.391061, 37.781689]}",success,0.0,success2
+2166,iCrossing,public_relations,550.0,1998.0,San Francisco,,Invalid lat and long,62000.0,success
+2175,Netbooks,web,,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.40195, 37.79471]}",success,16400.0,success
+2179,SlideShare,web,10.0,,San Francisco,"{'type': 'Point', 'coordinates': [-122.400934, 37.776878]}",success,3000.0,success
+2201,Constant Contact,messaging,,1998.0,San Francisco,,Invalid lat and long,3660.0,success
+2201,Constant Contact,messaging,,1998.0,San Francisco,,Invalid lat and long,3660.0,success
+2255,Wikimedia Foundation,nonprofit,143.0,2003.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.392839, 37.76785]}",success,74000.0,success
+2272,vFlyer,public_relations,,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.398634, 37.790947]}",success,0.0,success2
+2273,The Echo Nest,music,65.0,2005.0,San Francisco,,Invalid lat and long,25600.0,success
+2298,Allopass,web,150.0,1991.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4325682, 37.7561438]}",success,0.0,success2
+2335,Woopra,software,12.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-100.076888, 31.169036]}",success,0.0,success2
+2336,stickychicken,games_video,2.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+2340,Plumtree Software,software,,1996.0,San Francisco,,Invalid lat and long,0.0,success2
+2346,ZEDO,advertising,250.0,1999.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.397819, 37.786464]}",success,0.0,success2
+2348,Xoopit,web,,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4092704, 37.7617955]}",success,6500.0,success
+2375,Placecast,mobile,,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.423468, 37.773688]}",success,8000.0,success
+2384,Stylehive,ecommerce,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.402759, 37.787646]}",success,2620.0,success
+2417,Macromedia,software,,1992.0,San Francisco,,Invalid lat and long,0.0,success2
+2428,Undertone,advertising,,2002.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.398099, 37.792949]}",success,40000.0,success
+2483,Obvious,web,,2006.0,San Francisco,,Invalid lat and long,2000.0,success
+2502,Pure Digital Technologies,hardware,95.0,2001.0,San Francisco,,Invalid lat and long,68200.0,success
+2512,Marin Software,advertising,,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3946404, 37.792083]}",success,100000.0,success
+2515,Huddle,enterprise,200.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.403256, 37.78236]}",success,38200.0,success
+2529,Support Intelligence,network_hosting,10.0,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.42215, 37.767569]}",success,0.0,success2
+2536,Boxbe,web,3.0,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.442592, 37.800209]}",success,1500.0,success
+2540,Advent Software,software,,1983.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.402683, 37.771706]}",success,0.0,success2
+2561,RichRelevance,ecommerce,250.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4000965, 37.7938969]}",success,57800.0,success
+2572,Spleak,network_hosting,,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.400932, 37.787423]}",success,0.0,success2
+2574,Foxmarks,web,,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+2605,Palamida,security,37.0,2004.0,San Francisco,,Invalid lat and long,18500.0,success
+2611,Creative Commons,web,,2001.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.399884, 37.788457]}",success,0.0,success2
+2628,SquareTrade,hardware,190.0,1999.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.40036, 37.789551]}",success,248000.0,success
+2640,UnitedLayer,network_hosting,30.0,2001.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.397254, 37.724999]}",success,0.0,success2
+2643,Mojiva,mobile,105.0,2008.0,San Francisco,,Invalid lat and long,45800.0,success
+2646,ServePath,hardware,100.0,2001.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.389757, 37.789803]}",success,0.0,success2
+2657,Pipl,search,0.0,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-74.212014, 40.081697]}",success,0.0,success2
+2660,Cutcaster,web,8.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.457454, 37.79851]}",success,0.0,success2
+2662,Heysan,mobile,8.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.410076, 37.774997]}",success,875.0,success
+2669,GitHub,software,106.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,100000.0,success
+2676,Geeknet,advertising,127.0,1993.0,San Francisco,,Invalid lat and long,0.0,success2
+2716,Compfight,web,5.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+2718,slinkset,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,15.0,success
+2736,Globant,software,2800.0,2003.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4041764, 37.7819286]}",success,28000.0,success
+2746,Red Oxygen,mobile,18.0,2001.0,San Francisco,,Invalid lat and long,0.0,success2
+2747,Sutros,games_video,3.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.42087, 37.756922]}",success,0.0,success2
+2768,Crazymenu,web,,2005.0,San Francisco,,Invalid lat and long,0.0,success2
+2772,Apture,web,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.322954, 37.566042]}",success,4600.0,success
+2786,Macroaxis,software,8.0,2009.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3998782, 37.7896292]}",success,0.0,success2
+2792,filobite,network_hosting,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+2794,InMobi,mobile,900.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.1709208, 37.4465496]}",success,216000.0,success
+2836,UserVoice,software,22.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.0253784, 36.9751032]}",success,1800.0,success
+2876,Aardvark,web,30.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.415813, 37.748676]}",success,6000.0,success
+2884,GIS Planning,ecommerce,16.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.408646, 37.784137]}",success,0.0,success2
+2888,Gracenote,games_video,,1998.0,San Francisco,,Invalid lat and long,33400.0,success
+2889,SQLstream,analytics,,2002.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419966, 37.775058]}",success,6270.0,success
+2902,JobScore,software,7.0,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3943387, 37.7881481]}",success,0.0,success2
+2910,Triggit,advertising,43.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.418129, 37.771208]}",success,18500.0,success
+2911,Serious Business,games_video,22.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4013624, 37.7893215]}",success,4000.0,success
+2929,RateItAll,web,6.0,1999.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.418137, 37.755012]}",success,1400.0,success
+2959,Tealeaf,advertising,100.0,1997.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.397133, 37.791242]}",success,12000.0,success
+2995,Profy,web,,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+3006,Kabam,games_video,650.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.0785314, 37.3944561]}",success,125000.0,success
+3008,mappery,web,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4438929, 37.7717185]}",success,0.0,success2
+3015,KnowledgeBid,network_hosting,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.395708, 37.783383]}",success,0.0,success2
+3018,AllMyData,,,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.400909, 37.762681]}",success,0.0,success2
+3042,New Relic,software,63.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-119.306607, 37.269175]}",success,175000.0,success
+3070,Zinch,web,80.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-111.658656, 40.234451]}",success,5000.0,success
+3075,MedHelp,web,30.0,1994.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.415199, 37.7746693]}",success,0.0,success2
+3079,Yoono,web,10.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.397884, 37.787204]}",success,5450.0,success
+3087,Citizen Sports,games_video,27.0,,San Francisco,"{'type': 'Point', 'coordinates': [-122.397044, 37.777513]}",success,10000.0,success
+3097,VentureLoop,web,,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+3118,Snapbomb Blog Marketing,advertising,,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.411498, 37.803509]}",success,0.0,success2
+3119,RemindBlast,web,5.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.401537, 37.773727]}",success,0.0,success2
+3143,Oomble,mobile,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+3153,Caachi,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.4186, 37.7753]}",success,0.0,success2
+3155,Supercool School,web,3.0,2009.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.416804, 37.754332]}",success,100.0,success
+3172,EatLime,photo_video,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4194155, 37.7749295]}",success,3380.0,success
+3176,Catzilla,advertising,2.0,2003.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.43305, 37.798069]}",success,0.0,success2
+3275,TuneUp,music,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4119381, 37.7654195]}",success,15600.0,success
+3319,Wavemaker Software,software,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.394265, 37.789518]}",success,14700.0,success
+3330,Fonemesh,mobile,7.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.398126, 37.791128]}",success,250.0,success
+3347,Stitcher,mobile,17.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,18700.0,success
+3365,TerraPass,web,7.0,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.397847, 37.787445]}",success,5800.0,success
+3389,Venture Hacks,other,3.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+3426,Zoosk,social,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4099154, 37.7726402]}",success,61600.0,success
+3463,Geary Interactive,advertising,240.0,2000.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4039768, 37.7872512]}",success,0.0,success2
+3465,Transpera,mobile,20.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.405081, 37.785792]}",success,19500.0,success
+3497,Flixya,web,4.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3957917, 37.7764671]}",success,0.0,success2
+3507,Bizo,advertising,66.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4011706, 37.7911186]}",success,28500.0,success
+3530,Loyalty Matrix,advertising,,2001.0,San Francisco,,Invalid lat and long,0.0,success2
+3535,Developer Analytics,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-102.788565, 38.764206]}",success,0.0,success2
+3538,JamBase,web,16.0,1998.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.396818, 37.78054]}",success,0.0,success2
+3562,Adscape,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+3568,RabbleDabble,other,29.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.398599, 37.798853]}",success,0.0,success2
+3591,Infectious,web,4.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.410217, 37.771927]}",success,750.0,success
+3612,Dolby,hardware,,1965.0,San Francisco,,Invalid lat and long,0.0,success2
+3619,Etchstar,hardware,7.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-118.367701, 34.091073]}",success,0.0,success2
+3623,AddictingGames,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.40116, 37.790838]}",success,0.0,success2
+3635,iWin,games_video,103.0,2001.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.391061, 37.781689]}",success,0.0,success2
+3647,Zinio,news,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.40045, 37.7915]}",success,27000.0,success
+3650,FeedText,mobile,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.401942, 37.791068]}",success,0.0,success2
+3666,Aruspex,software,26.0,2003.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.40185, 37.790346]}",success,3770.0,success
+3667,PurePlay,games_video,,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,15000.0,success
+3672,Sputnik,mobile,,2001.0,San Francisco,,Invalid lat and long,0.0,success2
+3676,SFentrepreneur,web,2.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.437262, 37.78597]}",success,0.0,success2
+3684,Mekanism,advertising,35.0,,San Francisco,"{'type': 'Point', 'coordinates': [-122.391515, 37.781264]}",success,0.0,success2
+3691,Soundflavor,games_video,17.0,2003.0,San Francisco,,Invalid lat and long,5800.0,success
+3698,Cloudmark,security,100.0,2001.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.39071, 37.779507]}",success,38500.0,success
+3720,Rabio,advertising,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.402968, 37.797126]}",success,0.0,success2
+3727,TRUSTe,enterprise,130.0,1997.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4005576, 37.7886685]}",success,37000.0,success
+3748,Jambool,finance,25.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.389519, 37.782101]}",success,6000.0,success
+3775,Sonique,software,12.0,1997.0,San Francisco,,Invalid lat and long,0.0,success2
+3812,Offbeat Guides,web,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.405412, 37.788408]}",success,0.0,success2
+3852,DriverSide,automotive,,2007.0,San Francisco,,Invalid lat and long,10600.0,success
+3854,appssavvy,advertising,20.0,2008.0,San Francisco,,Invalid lat and long,10200.0,success
+3969,iProspect,software,,1996.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4041764, 37.7819286]}",success,0.0,success2
+3971,StartForce,web,21.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.420903, 37.796164]}",success,6000.0,success
+4055,Birthday Alarm,web,,2001.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.392063, 37.783834]}",success,0.0,success2
+4072,MetaCritic,games_video,,1999.0,San Francisco,,Invalid lat and long,0.0,success2
+4086,Lingro,web,,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+4088,Practice Fusion,health,280.0,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.392725, 37.7886717]}",success,155000.0,success
+4094,Grid Net,software,,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.393229, 37.781265]}",success,0.0,success2
+4121,Socialcast,enterprise,,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3932389, 37.7819267]}",success,9400.0,success
+4127,GayCities,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.435242, 37.759591]}",success,0.0,success2
+4176,Bizroof,enterprise,8.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.418829, 37.781249]}",success,0.0,success2
+4189,iPling,mobile,7.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.402859, 37.791391]}",success,700.0,success
+4231,Ideal Bite,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.393229, 37.781265]}",success,0.0,success2
+4259,Acteva,web,,1998.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.398995, 37.792636]}",success,0.0,success2
+4264,NeighborCity,web,15.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.412214, 37.775392]}",success,0.0,success2
+4308,TechInsights,advertising,,,San Francisco,,Invalid lat and long,0.0,success2
+4311,Razz,software,,2002.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.406676, 37.766909]}",success,10000.0,success
+4330,InsideView,enterprise,150.0,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.402021, 37.764169]}",success,56500.0,success
+4349,NewsOrViews,web,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.396744, 37.780134]}",success,0.0,success2
+4360,Clickability,enterprise,,1999.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.399929, 37.7932747]}",success,11500.0,success
+4369,WideOrbit,advertising,350.0,1999.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3885899, 37.7895289]}",success,34500.0,success
+4438,Razoo,web,30.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-77.044256, 38.901544]}",success,0.0,success2
+4443,Remember The Milk,web,,2004.0,San Francisco,,Invalid lat and long,0.0,success2
+4458,Keibi Technologies,software,30.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.402759, 37.787646]}",success,5000.0,success
+4460,BayPoint Benefits,consulting,,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.477294, 37.835198]}",success,0.0,success2
+4477,AdParlor,advertising,300.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.401406, 37.78866]}",success,0.0,success2
+4479,Farallon Geographics,consulting,11.0,1997.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4001578, 37.7878037]}",success,0.0,success2
+4513,NextAdvisor,other,10.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4728, 37.789335]}",success,0.0,success2
+4516,Overstream,games_video,3.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.402859, 37.791391]}",success,0.0,success2
+4518,eBaum's World,games_video,,1998.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3987745, 37.786393]}",success,0.0,success2
+4531,PodOmatic,web,4.0,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.396506, 37.776271]}",success,0.0,success2
+4546,Applied Operations,consulting,4.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4186, 37.7753]}",success,0.0,success2
+4584,mental images,software,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.399646, 37.794649]}",success,0.0,success2
+4604,Alcance Media Group,advertising,12.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.401942, 37.791068]}",success,0.0,success2
+4640,Organic,,,1993.0,San Francisco,,Invalid lat and long,0.0,success2
+4644,ShopStyle,ecommerce,,2006.0,San Francisco,,Invalid lat and long,0.0,success2
+4691,Simply Continuous,other,15.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.399412, 37.787076]}",success,0.0,success2
+4719,CleanLoop,cleantech,,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+4742,Posterous,web,9.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,10100.0,success
+4782,Mediastay,games_video,,2000.0,San Francisco,,Invalid lat and long,21500.0,success
+4790,Rhapsody,music,150.0,2001.0,San Francisco,,Invalid lat and long,0.0,success2
+4830,twitterfeed,web,,2006.0,San Francisco,,Invalid lat and long,0.0,success2
+4849,Open Places,web,3.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.398379, 37.758352]}",success,1100.0,success
+4852,Genbook,web,12.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4007791, 37.789902]}",success,2200.0,success
+4904,VenJuvo,web,,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.403545, 37.796657]}",success,0.0,success2
+4908,Flowgram,web,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4025976, 37.7710177]}",success,1300.0,success
+4932,GoGrid,network_hosting,102.0,2001.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3886569, 37.7895248]}",success,0.0,success2
+4932,GoGrid,network_hosting,102.0,2001.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.390058, 37.78932]}",success,0.0,success2
+4944,Achievers,software,150.0,1995.0,San Francisco,"{'type': 'Point', 'coordinates': [-79.425455, 43.637296]}",success,50100.0,success
+4982,Stage Two Consulting,consulting,8.0,2006.0,San Francisco,,Invalid lat and long,0.0,success2
+5005,Premier Staffing,consulting,32.0,1998.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.402524, 37.78976]}",success,0.0,success2
+5009,branchnext,hardware,6.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.402021, 37.764169]}",success,0.0,success2
+5011,Ammunition Group,public_relations,,1980.0,San Francisco,,Invalid lat and long,0.0,success2
+5018,IDEO,consulting,500.0,1978.0,San Francisco,,Invalid lat and long,0.0,success2
+5048,WatchMouse,enterprise,10.0,2002.0,San Francisco,,Invalid lat and long,0.0,success2
+5057,Medialets,advertising,60.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,28400.0,success
+5092,Discovery Mining,web,,2002.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4587055, 37.7982385]}",success,0.0,success2
+5125,SourceSouth,public_relations,10.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.427476, 37.75788]}",success,0.0,success2
+5135,Involver,software,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.401333, 37.788653]}",success,11300.0,success
+5154,ON24,web,,1998.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4004738, 37.7850326]}",success,8000.0,success
+5161,Amazee,public_relations,7.0,2007.0,San Francisco,,Invalid lat and long,0.0,success2
+5165,EcoFlip,web,5.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.420903, 37.796164]}",success,0.0,success2
+5195,Scavenja,games_video,8.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.396744, 37.780134]}",success,0.0,success2
+5221,Streetline,hardware,,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.409747, 37.782085]}",success,40000.0,success
+5230,Zendesk,software,400.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [12.568116, 55.676294]}",success,85500.0,success
+5232,Triage Consulting Group,biotech,,1994.0,San Francisco,,Invalid lat and long,0.0,success2
+5242,ByteShield,software,,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.447292, 37.800948]}",success,0.0,success2
+5258,Third Age,health,,1996.0,San Francisco,,Invalid lat and long,1000.0,success
+5352,InfoWorld Media Group,consulting,,1979.0,San Francisco,,Invalid lat and long,0.0,success2
+5374,trueAnthem,advertising,10.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4099154, 37.8059887]}",success,7480.0,success
+5407,Lexy,games_video,,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.397672, 37.786906]}",success,1710.0,success
+5427,Hands-On Mobile,mobile,,2001.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,30000.0,success
+5472,Carbonetworks,cleantech,39.0,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.404448, 37.805289]}",success,5000.0,success
+5484,Minted,ecommerce,115.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.403175, 37.797435]}",success,52700.0,success
+5497,Appirio,enterprise,500.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.2997532, 37.5552776]}",success,80700.0,success
+5502,Advisor,enterprise,28.0,2011.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4177157, 37.7763989]}",success,0.0,success2
+5511,Kontagent,analytics,80.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4020593, 37.7797255]}",success,17500.0,success
+5529,Academic Earth,education,,2008.0,San Francisco,,Invalid lat and long,0.0,success2
+5570,Rofo,search,10.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.391061, 37.781689]}",success,0.0,success2
+5597,McKesson,biotech,,1833.0,San Francisco,,Invalid lat and long,0.0,success2
+5606,Allvoices,news,10.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.401942, 37.791068]}",success,3313.6,success
+5646,Huddler,web,52.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4013624, 37.7893215]}",success,22800.0,success
+5668,Prezi,software,110.0,2009.0,San Francisco,,Invalid lat and long,14300.0,success
+5708,Cucku,enterprise,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.41748, 37.743454]}",success,0.0,success2
+5713,Broong,network_hosting,,,San Francisco,,Invalid lat and long,0.0,success2
+5733,LeadGenesys,enterprise,23.0,2002.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.401241, 37.791648]}",success,0.0,success2
+5763,Zorap,web,2.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,2250.0,success
+5766,RentMineOnline,web,,2007.0,San Francisco,,Invalid lat and long,54.5,success
+5780,Airbnb,travel,,2008.0,San Francisco,,Invalid lat and long,326000.0,success
+5787,ngmoco,games_video,150.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4015807, 37.7705096]}",success,44800.0,success
+5874,Xero,software,507.0,2006.0,San Francisco,,Invalid lat and long,244000.0,success
+5877,ICPA,consulting,30.0,1992.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.423065, 37.787645]}",success,0.0,success2
+5916,CraveOnline,web,38.0,2004.0,San Francisco,,Invalid lat and long,0.0,success2
+5941,Sharethrough,advertising,80.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4018163, 37.7976785]}",success,11000.0,success
+5950,MoneyBackJobs,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.4392075, 37.7444211]}",success,0.0,success2
+5960,Paymo,mobile,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.40264, 37.798684]}",success,5000.0,success
+6024,Same Page Capital,consulting,1.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4194155, 37.7749295]}",success,0.0,success2
+6032,KDDI,mobile,,2000.0,San Francisco,,Invalid lat and long,0.0,success2
+6042,Ecolect,cleantech,3.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.410111, 37.776769]}",success,0.0,success2
+6058,WorldMate,mobile,30.0,2000.0,San Francisco,,Invalid lat and long,8510.0,success
+6100,Charles Schwab,,,,San Francisco,,Invalid lat and long,6180.0,success
+6110,Recommind,enterprise,,2000.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.404904, 37.796903]}",success,15000.0,success
+6140,Integrate,software,120.0,2010.0,San Francisco,,Invalid lat and long,34800.0,success
+6146,BackType,advertising,,2008.0,San Francisco,,Invalid lat and long,1320.0,success
+6152,Native Instinct,web,,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.393528, 37.781021]}",success,0.0,success2
+6156,Innotas,software,,2000.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3993979, 37.787722]}",success,21300.0,success
+6172,Picwing,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.395681, 37.774082]}",success,0.0,success2
+6238,Poll Everywhere,mobile,20.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-87.625271, 41.864917]}",success,20.0,success
+6259,PX Interactive,software,8.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.407709, 37.781754]}",success,0.0,success2
+6267,Fluther,web,3.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.418642, 37.758062]}",success,600.0,success
+6276,ReTel Technologies,analytics,5.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-87.596232, 41.78942]}",success,1000.0,success
+6315,Foodzie,ecommerce,10.0,,San Francisco,"{'type': 'Point', 'coordinates': [-105.2773493, 40.0173513]}",success,1020.0,success
+6333,AirMedia,software,,2003.0,San Francisco,,Invalid lat and long,0.0,success2
+6400,Lyft,software,180.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4007846, 37.7899027]}",success,82500.0,success
+6402,Shattered Reality Interactive,games_video,10.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.394067, 37.783046]}",success,1100.0,success
+6403,Carticipate,mobile,3.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.389519, 37.782101]}",success,130.0,success
+6424,Demandbase,analytics,80.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.400346, 37.796843]}",success,33000.0,success
+6425,Fitbit,health,,2007.0,San Francisco,,Invalid lat and long,68100.0,success
+6426,ShopCastTV,mobile,5.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3943387, 37.7881481]}",success,0.0,success2
+6447,PlayPhone,games_video,,2003.0,San Francisco,,Invalid lat and long,95100.0,success
+6452,Popego,advertising,120.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.421242, 37.778687]}",success,0.0,success2
+6460,TextMarks,mobile,5.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.428193, 37.79289]}",success,0.0,success2
+6468,plaYce,games_video,7.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.438231, 37.80204]}",success,0.0,success2
+6471,PeopleBrowsr,web,35.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.142326, 37.459112]}",success,0.0,success2
+6474,Blogcritics,web,,2002.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3693356, 37.8255226]}",success,0.0,success2
+6497,Twonq,web,3.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.403223, 37.794124]}",success,800.0,success
+6500,Postbox,software,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.388336, 37.758737]}",success,0.0,success2
+6503,AdRocket,advertising,5.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,1000.0,success
+6523,GoodGuide,web,10.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4000032, 37.7983181]}",success,14200.0,success
+6531,Yammer,enterprise,400.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4179223, 37.776246]}",success,142000.0,success
+6580,TopNotchThemes,ecommerce,5.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4186, 37.7753]}",success,0.0,success2
+6583,TRUECar,transportation,303.0,2005.0,San Francisco,,Invalid lat and long,352000.0,success
+6608,Telespree,software,20.0,1998.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.391011, 37.777092]}",success,1000.0,success
+6696,AKQA,advertising,550.0,1995.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.390254, 37.779437]}",success,0.0,success2
+6698,Softonic,web,360.0,1997.0,San Francisco,,Invalid lat and long,0.0,success2
+6714,Milobox,advertising,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.421242, 37.792979]}",success,0.0,success2
+6746,ConnectSolutions,enterprise,50.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.347745, 37.580093]}",success,10000.0,success
+6769,Lolapps,web,65.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3999719, 37.7870923]}",success,4000.0,success
+6826,tripJane,network_hosting,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.3943387, 37.7881481]}",success,0.0,success2
+6851,Penguin Computing,software,,1998.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.392901, 37.783171]}",success,16300.0,success
+6857,BallerHouse,network_hosting,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+6872,Pixelpipe,mobile,10.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.401024, 37.764395]}",success,2300.0,success
+6883,Scripped,software,4.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4194155, 37.7749295]}",success,700.0,success
+6884,InnerRewards,ecommerce,9.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.404403, 37.78691]}",success,1000.0,success
+6899,XBOSoft,software,100.0,2006.0,San Francisco,,Invalid lat and long,0.0,success2
+6907,Fastmetrics,hardware,9.0,2002.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.408646, 37.784137]}",success,0.0,success2
+6936,KDDI,mobile,,2000.0,San Francisco,,Invalid lat and long,0.0,success2
+6948,Ecolect,cleantech,3.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.410111, 37.776769]}",success,0.0,success2
+6964,WorldMate,mobile,30.0,2000.0,San Francisco,,Invalid lat and long,8510.0,success
+7007,Charles Schwab,,,,San Francisco,,Invalid lat and long,6180.0,success
+7016,Recommind,enterprise,,2000.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.404904, 37.796903]}",success,15000.0,success
+7047,Integrate,software,120.0,2010.0,San Francisco,,Invalid lat and long,34800.0,success
+7053,BackType,advertising,,2008.0,San Francisco,,Invalid lat and long,1320.0,success
+7058,Native Instinct,web,,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.393528, 37.781021]}",success,0.0,success2
+7061,Innotas,software,,2000.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3993979, 37.787722]}",success,21300.0,success
+7080,Picwing,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.395681, 37.774082]}",success,0.0,success2
+7145,Poll Everywhere,mobile,20.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-87.625271, 41.864917]}",success,20.0,success
+7164,PX Interactive,software,8.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.407709, 37.781754]}",success,0.0,success2
+7173,Fluther,web,3.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.418642, 37.758062]}",success,600.0,success
+7182,ReTel Technologies,analytics,5.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-87.596232, 41.78942]}",success,1000.0,success
+7220,Foodzie,ecommerce,10.0,,San Francisco,"{'type': 'Point', 'coordinates': [-105.2773493, 40.0173513]}",success,1020.0,success
+7224,AirMedia,software,,2003.0,San Francisco,,Invalid lat and long,0.0,success2
+7306,Lyft,software,180.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4007846, 37.7899027]}",success,82500.0,success
+7307,Carticipate,mobile,3.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.389519, 37.782101]}",success,130.0,success
+7308,Shattered Reality Interactive,games_video,10.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.394067, 37.783046]}",success,1100.0,success
+7328,Fitbit,health,,2007.0,San Francisco,,Invalid lat and long,68100.0,success
+7331,Demandbase,analytics,80.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.400346, 37.796843]}",success,33000.0,success
+7333,ShopCastTV,mobile,5.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3943387, 37.7881481]}",success,0.0,success2
+7351,PlayPhone,games_video,,2003.0,San Francisco,,Invalid lat and long,95100.0,success
+7359,Popego,advertising,120.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.421242, 37.778687]}",success,0.0,success2
+7365,TextMarks,mobile,5.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.428193, 37.79289]}",success,0.0,success2
+7375,plaYce,games_video,7.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.438231, 37.80204]}",success,0.0,success2
+7378,PeopleBrowsr,web,35.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.142326, 37.459112]}",success,0.0,success2
+7381,Blogcritics,web,,2002.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3693356, 37.8255226]}",success,0.0,success2
+7400,Twonq,web,3.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.403223, 37.794124]}",success,800.0,success
+7406,Postbox,software,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.388336, 37.758737]}",success,0.0,success2
+7409,AdRocket,advertising,5.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,1000.0,success
+7425,GoodGuide,web,10.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4000032, 37.7983181]}",success,14200.0,success
+7437,Yammer,enterprise,400.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4179223, 37.776246]}",success,142000.0,success
+7486,TopNotchThemes,ecommerce,5.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4186, 37.7753]}",success,0.0,success2
+7494,TRUECar,transportation,303.0,2005.0,San Francisco,,Invalid lat and long,352000.0,success
+7511,Telespree,software,20.0,1998.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.391011, 37.777092]}",success,1000.0,success
+7601,Softonic,web,360.0,1997.0,San Francisco,,Invalid lat and long,0.0,success2
+7606,AKQA,advertising,550.0,1995.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.390254, 37.779437]}",success,0.0,success2
+7619,Milobox,advertising,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.421242, 37.792979]}",success,0.0,success2
+7654,ConnectSolutions,enterprise,50.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.347745, 37.580093]}",success,10000.0,success
+7675,Lolapps,web,65.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3999719, 37.7870923]}",success,4000.0,success
+7732,tripJane,network_hosting,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.3943387, 37.7881481]}",success,0.0,success2
+7756,Penguin Computing,software,,1998.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.392901, 37.783171]}",success,16300.0,success
+7762,BallerHouse,network_hosting,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+7779,Pixelpipe,mobile,10.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.401024, 37.764395]}",success,2300.0,success
+7791,InnerRewards,ecommerce,9.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.404403, 37.78691]}",success,1000.0,success
+7795,Scripped,software,4.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4194155, 37.7749295]}",success,700.0,success
+7804,XBOSoft,software,100.0,2006.0,San Francisco,,Invalid lat and long,0.0,success2
+7812,Fastmetrics,hardware,9.0,2002.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.408646, 37.784137]}",success,0.0,success2
+7838,Getfugu,software,10.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.402683, 37.771706]}",success,800.0,success
+7839,nCircle Network Security,software,,1998.0,San Francisco,,Invalid lat and long,6000.0,success
+7850,AppVee,mobile,,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+7901,Notifixious,public_relations,1.0,2008.0,San Francisco,,Invalid lat and long,200.0,success
+7901,Notifixious,public_relations,1.0,2008.0,San Francisco,,Invalid lat and long,200.0,success
+7930,perceptu,web,10.0,2009.0,San Francisco,,Invalid lat and long,0.0,success2
+7989,Brightstorm,games_video,,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.371203, 37.804619]}",success,6000.0,success
+8010,Plum,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.414952, 37.772938]}",success,0.0,success2
+8043,SocialMoms,web,8.0,2008.0,San Francisco,,Invalid lat and long,0.0,success2
+8050,Bandcamp,music,4.0,2008.0,San Francisco,,Invalid lat and long,0.0,success2
+8065,Capital West Advisors,consulting,12.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.404086, 37.792821]}",success,0.0,success2
+8077,BoxCycle,web,,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+8096,e-Clips,advertising,4.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.420572, 37.761404]}",success,0.0,success2
+8146,World Golf Tour,sports,,2007.0,San Francisco,,Invalid lat and long,21000.0,success
+8179,PicApp,web,,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4031242, 37.79402]}",success,3200.0,success
+8196,Groupon,web,10000.0,2008.0,San Francisco,,Invalid lat and long,1150000.0,success
+8218,metaio,software,65.0,2003.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.341715, 37.590339]}",success,0.0,success2
+8266,Smule,music,55.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.391236, 37.779624]}",success,25500.0,success
+8278,OQO,mobile,,2000.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.415869, 37.759117]}",success,39800.0,success
+8339,eGroups,web,,1998.0,San Francisco,,Invalid lat and long,0.0,success2
+8365,2020systems,advertising,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+8380,Radionomy,music,12.0,2007.0,San Francisco,,Invalid lat and long,6000.0,success
+8394,IntoSpace,other,,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.393041, 37.779558]}",success,0.0,success2
+8463,One Season,games_video,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,3750.0,success
+8470,GoldMail,public_relations,14.0,2007.0,San Francisco,,Invalid lat and long,500.0,success
+8484,Mindjet,software,200.0,1995.0,San Francisco,"{'type': 'Point', 'coordinates': [9.049981, 50.095312]}",success,15000.0,success
+8485,6s Marketing,,,,San Francisco,,Invalid lat and long,0.0,success2
+8486,BootstrapLabs,other,,2008.0,San Francisco,,Invalid lat and long,0.0,success2
+8515,Papercheck,consulting,35.0,2001.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4035368, 37.7875973]}",success,0.0,success2
+8541,NativeX,advertising,150.0,2000.0,San Francisco,,Invalid lat and long,0.0,success2
+8552,Reframe It,web,10.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.400591, 37.782163]}",success,3180.0,success
+8567,Adblue,advertising,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+8648,Vinfolio,ecommerce,68.0,2003.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.410752, 37.763293]}",success,10600.0,success
+8657,iRISQ,ecommerce,5.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.39203, 37.790744]}",success,0.0,success2
+8694,my6sense,advertising,14.0,2007.0,San Francisco,,Invalid lat and long,7500.0,success
+8700,KQED,public_relations,,1954.0,San Francisco,,Invalid lat and long,0.0,success2
+8751,AlphaClone,finance,2.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.403073, 37.79023]}",success,1400.0,success
+8756,Booyah,games_video,,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.2103414, 37.420728]}",success,59500.0,success
+8772,Thismoment,enterprise,135.0,2008.0,San Francisco,,Invalid lat and long,34400.0,success
+8782,Webtab,mobile,,2010.0,San Francisco,,Invalid lat and long,2000.0,success
+8807,GotGame,games_video,15.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.395785, 37.77772]}",success,1000.0,success
+8839,Formspring,web,19.0,2009.0,San Francisco,"{'type': 'Point', 'coordinates': [-86.0547016, 39.9052263]}",success,14300.0,success
+8972,acerno,web,,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419966, 37.775028]}",success,0.0,success2
+8987,SonicLiving,games_video,10.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.290897, 37.8448035]}",success,0.0,success2
+9005,Emotive Communications,enterprise,25.0,2011.0,San Francisco,,Invalid lat and long,14000.0,success
+9054,Arista Networks,public_relations,,2005.0,San Francisco,,Invalid lat and long,0.0,success2
+9107,Ebates,ecommerce,,1998.0,San Francisco,,Invalid lat and long,0.0,success2
+9126,Stupeflix,web,15.0,2009.0,San Francisco,,Invalid lat and long,0.0,success2
+9190,Red Sky Interactive,consulting,,,San Francisco,,Invalid lat and long,0.0,success2
+9221,iLetYou,ecommerce,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+9259,WePC,other,,2008.0,San Francisco,,Invalid lat and long,0.0,success2
+9266,DocVerse,web,5.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.397141, 37.788115]}",success,1300.0,success
+9270,My Rental Units,public_relations,0.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.398774, 37.786393]}",success,0.0,success2
+9290,Sparkpr,public_relations,50.0,1999.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3884419, 37.7873938]}",success,0.0,success2
+9320,Tivix,software,18.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.423132, 37.792303]}",success,0.0,success2
+9328,Virgance,web,15.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.394958, 37.781262]}",success,750.0,success
+9357,SitePoint,,,1998.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.398058, 37.7753]}",success,0.0,success2
+9413,WordNetworks,web,4.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.394635, 37.782886]}",success,0.0,success2
+9437,faberNovel,consulting,50.0,2003.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4148917, 37.7736667]}",success,0.0,success2
+9462,148Apps,software,1.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+9502,Lookout,security,,2007.0,San Francisco,,Invalid lat and long,131000.0,success
+9519,TubeSpree,games_video,11.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.421406, 37.781386]}",success,0.0,success2
+9532,CaptainU,software,20.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-87.5962319, 41.7894201]}",success,0.0,success2
+9567,Revel Industries,,,,San Francisco,,Invalid lat and long,0.0,success2
+9568,Newzwag,web,10.0,2007.0,San Francisco,,Invalid lat and long,0.0,success2
+9569,Big Noise PR,,,,San Francisco,,Invalid lat and long,0.0,success2
+9614,Sapient,enterprise,10000.0,1990.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.392521, 37.79088]}",success,2400.0,success
+9624,Gap,,,1969.0,San Francisco,,Invalid lat and long,0.0,success2
+9719,KIXEYE,games_video,,2007.0,San Francisco,,Invalid lat and long,19000.0,success
+9735,Stamen Design,web,,2000.0,San Francisco,,Invalid lat and long,0.0,success2
+9745,SalesOnlineWorld,advertising,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.398126, 37.791128]}",success,0.0,success2
+9812,Twilio,enterprise,100.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4006831, 37.7898499]}",success,104000.0,success
+9821,Codegear,software,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.398062, 37.793949]}",success,0.0,success2
+9825,DigitalThink,,,1996.0,San Francisco,,Invalid lat and long,0.0,success2
+9868,RPX Corporation,legal,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.397298, 37.794948]}",success,0.0,success2
+9924,Storenvy,ecommerce,10.0,2009.0,San Francisco,,Invalid lat and long,6530.0,success
+10042,LoopNet,ecommerce,300.0,1995.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3931139, 37.7759421]}",success,50000.0,success
+10060,Fanminder,advertising,11.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.1151274, 37.3792486]}",success,1000.0,success
+10062,ZingSale,ecommerce,2.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-117.163841, 32.718834]}",success,0.0,success2
+10100,Open Mountain,software,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.429788, 37.795276]}",success,0.0,success2
+10110,ThoughtWorks Studios,software,1100.0,1992.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.395089, 37.793819]}",success,0.0,success2
+10162,Callixa,software,,,San Francisco,,Invalid lat and long,0.0,success2
+10246,MotionApps,software,,2003.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3963738, 37.7845627]}",success,0.0,success2
+10302,Matter Network,cleantech,,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3985871, 37.7618242]}",success,0.0,success2
+10304,Commission Junction,advertising,500.0,1998.0,San Francisco,,Invalid lat and long,0.0,success2
+10327,Connectize,software,,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+10412,Dented Reality,,,,San Francisco,,Invalid lat and long,0.0,success2
+10468,Sojern,travel,75.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-96.183033, 41.238038]}",success,42500.0,success
+10497,ARX,software,60.0,1987.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4025016, 37.7809512]}",success,0.0,success2
+10506,Psolenoid,,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.2945885, 37.5401432]}",success,0.0,success2
+10528,EVault,software,,1997.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.399817, 37.78505]}",success,0.0,success2
+10536,Vontu,software,,2001.0,San Francisco,,Invalid lat and long,20000.0,success
+10545,Circle of Moms,web,9.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3915063, 37.7890183]}",success,0.0,success2
+10571,Soma Networks,network_hosting,,1999.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4026325, 37.7710402]}",success,51000.0,success
+10586,YieldBuild,advertising,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.3989376, 37.7877967]}",success,6000.0,success
+10660,Optimate Networks,games_video,7.0,2007.0,San Francisco,,Invalid lat and long,0.0,success2
+10671,Snappr,mobile,0.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.414259, 37.762718]}",success,0.0,success2
+10679,Silicon Color,,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.392901, 37.783171]}",success,0.0,success2
+10762,StartupAgents,web,1.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+10764,MacArthur Associates,other,10.0,1989.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.401736, 37.789778]}",success,0.0,success2
+10766,Coveroo,hardware,28.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.407603, 37.770067]}",success,3800.0,success
+10776,Clikthrough,software,5.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4022856, 37.7965781]}",success,2000.0,success
+10778,Qitera,search,10.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4184108, 37.7581148]}",success,0.0,success2
+10821,Commercial Partners,consulting,10.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.401353, 37.792796]}",success,0.0,success2
+10831,SenSage,security,,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.398393, 37.785655]}",success,37100.0,success
+10901,BlueKai,advertising,142.0,2007.0,San Francisco,,Invalid lat and long,41900.0,success
+10921,Jaspersoft,software,,2001.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.403111, 37.765388]}",success,43500.0,success
+10934,JiWire,advertising,50.0,2003.0,San Francisco,,Invalid lat and long,44900.0,success
+10982,Indee,games_video,3.0,2010.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4052761, 37.8053241]}",success,0.0,success2
+10997,Envivio,software,,2000.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.38222, 37.665469]}",success,59000.0,success
+10998,AMP Consulting,consulting,8.0,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4006831, 37.7898499]}",success,0.0,success2
+11110,SeeSaw Networks,advertising,,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.399981, 37.791564]}",success,21100.0,success
+11131,JumpFox,consulting,7.0,2009.0,San Francisco,,Invalid lat and long,0.0,success2
+11141,NaturalPath Media,advertising,7.0,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.399959, 37.787247]}",success,250.0,success
+11160,Klout,social,79.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-118.2474287, 34.0497638]}",success,40000.0,success
+11187,DailyLit,,,,San Francisco,"{'type': 'Point', 'coordinates': [-73.7360671, 40.9519444]}",success,0.0,success2
+11217,SideStripe,search,,,San Francisco,,Invalid lat and long,250.0,success
+11220,Mocana,security,85.0,2002.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.401001, 37.793783]}",success,50500.0,success
+11267,Kaplan Index,web,,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+11285,thoughtbot,consulting,62.0,2003.0,San Francisco,,Invalid lat and long,0.0,success2
+11308,Project Frog,cleantech,,2006.0,San Francisco,,Invalid lat and long,55200.0,success
+11337,LiveVox,web,,1999.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.401144, 37.794643]}",success,12100.0,success
+11362,Jar Media,other,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.433866, 37.80426]}",success,0.0,success2
+11378,Fuego Nation,web,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,1500.0,success
+11406,Applied Identity,advertising,,2002.0,San Francisco,,Invalid lat and long,33000.0,success
+11407,Clarabridge,enterprise,150.0,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.402844, 37.791402]}",success,84300.0,success
+11415,DigaCast,,,,San Francisco,,Invalid lat and long,0.0,success2
+11477,Cognitive Networks,network_hosting,,2008.0,San Francisco,,Invalid lat and long,6000.0,success
+11519,CrowdFlower,enterprise,49.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4204782, 37.7652755]}",success,13200.0,success
+11540,Double Fusion,web,80.0,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3927145, 37.7887135]}",success,59000.0,success
+11546,5th Finger,mobile,50.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4021988, 37.7900992]}",success,7000.0,success
+11587,Mobillcash,mobile,,2003.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4186, 37.7753]}",success,0.0,success2
+11594,SmartTurn,advertising,,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.395327, 37.789801]}",success,5000.0,success
+11614,SpongeFish,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.3943096, 37.7800788]}",success,2000.0,success
+11692,NorthStar Systems International,software,,2001.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.40036, 37.789551]}",success,29500.0,success
+11724,Roundbox,software,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.3978187, 37.7864636]}",success,43000.0,success
+11771,SQA Solution,consulting,15.0,,San Francisco,"{'type': 'Point', 'coordinates': [-122.3985871, 37.7618242]}",success,0.0,success2
+11785,LOO-LEE,mobile,,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.471044, 37.777145]}",success,0.0,success2
+11792,Focus,enterprise,,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.398062, 37.793949]}",success,12200.0,success
+11824,BrightTALK,software,,2002.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.398126, 37.791128]}",success,20500.0,success
+11858,Heyzap,games_video,,2009.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4041485, 37.7905538]}",success,7970.0,success
+11909,Tripbase,web,10.0,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.159928, 37.437328]}",success,0.0,success2
+11932,BookFresh,web,,2007.0,San Francisco,,Invalid lat and long,500.0,success
+11940,Meez,hardware,21.0,2009.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.397582, 37.785271]}",success,10200.0,success
+11941,Pulse Entertainment,mobile,,1994.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.404869, 37.796396]}",success,7000.0,success
+11979,Voxer LLC,mobile,20.0,2007.0,San Francisco,,Invalid lat and long,30000.0,success
+11998,Donnorwood Media,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.397582, 37.785271]}",success,5000.0,success
+12012,Visa,other,,1958.0,San Francisco,,Invalid lat and long,0.0,success2
+12040,Universal Curve,consulting,,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+12043,NorthPoint Communications Group,network_hosting,948.0,1997.0,San Francisco,,Invalid lat and long,0.0,success2
+12101,Plausible Labs Cooperative,mobile,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.446967, 37.764895]}",success,0.0,success2
+12119,LesConcierges,public_relations,,1987.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.394265, 37.789518]}",success,27400.0,success
+12131,Skout,social,100.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3912492, 37.7800539]}",success,22000.0,success
+12133,Factor Technology Group,software,,,San Francisco,,Invalid lat and long,2960.0,success
+12181,CyberArts,software,55.0,,San Francisco,"{'type': 'Point', 'coordinates': [-122.435399, 37.737609]}",success,16300.0,success
+12241,ScramblerMail,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.440579, 37.79998]}",success,0.0,success2
+12277,Granicus,software,,1999.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.397847, 37.787445]}",success,10300.0,success
+12281,AgentArts,mobile,,1999.0,San Francisco,,Invalid lat and long,0.0,success2
+12302,Genstar Capital,,,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.396123, 37.795263]}",success,0.0,success2
+12353,/community,enterprise,,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4038185, 37.7884349]}",success,0.0,success2
+12381,Bolt Creative,mobile,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+12395,Decorati,web,10.0,,San Francisco,"{'type': 'Point', 'coordinates': [-122.3999719, 37.7870923]}",success,0.0,success2
+12401,Glu Mobile,mobile,,2001.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3973539, 37.7911371]}",success,23600.0,success
+12463,NEXAGE,mobile,60.0,2006.0,San Francisco,,Invalid lat and long,19500.0,success
+12496,Neocase Software,software,,2001.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.398393, 37.785655]}",success,16500.0,success
+12507,Riverbed Technology,software,1000.0,2002.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3951844, 37.7892685]}",success,0.0,success2
+12577,ZVUE,,,2003.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.405756, 37.772386]}",success,0.0,success2
+12579,CodeGlide,software,10.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3979712, 37.7934643]}",success,500.0,success
+12583,Cloudspace,consulting,19.0,1996.0,San Francisco,,Invalid lat and long,0.0,success2
+12603,Brightidea,software,,1999.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3952515, 37.7793652]}",success,0.0,success2
+12606,KODA,web,15.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.40971, 37.788796]}",success,4500.0,success
+12622,Visage Mobile,enterprise,51.0,2001.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.401194, 37.795141]}",success,14000.0,success
+12653,ClerkDogs,other,35.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4184108, 37.7581148]}",success,0.0,success2
+12711,AdaptiveAds,advertising,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.4035368, 37.7875973]}",success,0.0,success2
+12723,Socialize,mobile,10.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-76.998641, 38.88521]}",success,1820.0,success
+12759,Sustainable Life Media,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.344445, 37.577818]}",success,0.0,success2
+12853,McKesson Surgical Solutions,software,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.4020296, 37.7891259]}",success,0.0,success2
+12910,CBS MarketWatch,,,1997.0,San Francisco,,Invalid lat and long,0.0,success2
+12914,Sensor Analytics,software,,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+12977,MediaMelon,software,,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.40414, 37.792968]}",success,0.0,success2
+12997,Fortumo,mobile,45.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [24.8021233, 59.42145]}",success,10000.0,success
+13018,Headline Shirts,other,,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.410304, 37.758104]}",success,0.0,success2
+13020,Eightfold Logic,advertising,,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4010675, 37.7870841]}",success,19400.0,success
+13131,Dot Com Infoway Australia,software,350.0,2000.0,San Francisco,,Invalid lat and long,0.0,success2
+13178,CSRware,enterprise,50.0,2009.0,San Francisco,,Invalid lat and long,250.0,success
+13186,Business Wire,ecommerce,,1961.0,San Francisco,,Invalid lat and long,0.0,success2
+13238,Jobnob,search,,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4219405, 37.7440202]}",success,0.0,success2
+13281,PaperG,advertising,50.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.406111, 37.7905948]}",success,2700.0,success
+13288,3Degrees,cleantech,52.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.457623, 37.7968492]}",success,0.0,success2
+13326,Culture Unplugged Studios,games_video,45.0,2008.0,San Francisco,,Invalid lat and long,0.0,success2
+13370,Wakesoft,software,,,San Francisco,,Invalid lat and long,0.0,success2
+13378,Startup Revival,public_relations,1.0,2009.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+13413,Fliggo,games_video,2.0,2012.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+13423,Diomede Storage,cleantech,,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4186, 37.7753]}",success,0.0,success2
+13427,Meedan,search,20.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.422503, 37.786317]}",success,0.0,success2
+13456,JustGive,other,11.0,1999.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.405863, 37.789833]}",success,0.0,success2
+13461,Cloudize,enterprise,3.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.402667, 37.793473]}",success,0.0,success2
+13541,Always Innovating,hardware,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.169472, 37.48413]}",success,0.0,success2
+13543,Vanno,web,9.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.403755, 37.796216]}",success,0.0,success2
+13544,Tynt,messaging,,2007.0,San Francisco,,Invalid lat and long,11900.0,success
+13546,T3,advertising,,,San Francisco,,Invalid lat and long,0.0,success2
+13554,Xmarks,search,12.0,2006.0,San Francisco,,Invalid lat and long,0.0,success2
+13572,TechWeb,other,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.395913, 37.784132]}",success,0.0,success2
+13578,Founder Institute,other,3.0,2009.0,San Francisco,,Invalid lat and long,0.0,success2
+13590,Workbridge Associates,other,170.0,1989.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.401736, 37.789778]}",success,0.0,success2
+13593,Jobspring Partners,other,200.0,1989.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.401333, 37.788653]}",success,0.0,success2
+13598,MyLikes,advertising,,2010.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.408914, 37.777995]}",success,6230.0,success
+13608,The Vertical Action Group,consulting,10.0,2009.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4000032, 37.7983181]}",success,0.0,success2
+13615,PerformLine,advertising,,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4079619, 37.7829746]}",success,0.0,success2
+13644,Dyn,network_hosting,250.0,2001.0,San Francisco,,Invalid lat and long,38000.0,success
+13652,Unity Technologies,games_video,200.0,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [12.530107, 55.6924605]}",success,17500.0,success
+13662,WikiPock,mobile,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.4156988, 37.7751779]}",success,0.0,success2
+13713,CompareNet,,,1996.0,San Francisco,,Invalid lat and long,0.0,success2
+13714,StepUp Commerce,ecommerce,,2004.0,San Francisco,,Invalid lat and long,0.0,success2
+13749,Foodoro,ecommerce,,2008.0,San Francisco,,Invalid lat and long,0.0,success2
+13800,Honk,web,10.0,2009.0,San Francisco,,Invalid lat and long,0.0,success2
+13801,Keas,enterprise,50.0,2008.0,San Francisco,,Invalid lat and long,25500.0,success
+13828,North by South,software,45.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.409893, 37.776295]}",success,0.0,success2
+13865,Idea Couture,consulting,200.0,2007.0,San Francisco,,Invalid lat and long,0.0,success2
+13879,thredUP,fashion,,2009.0,San Francisco,,Invalid lat and long,25800.0,success
+13916,Clustrix,enterprise,,2006.0,San Francisco,,Invalid lat and long,47800.0,success
+13919,Cloudkick,enterprise,15.0,2009.0,San Francisco,,Invalid lat and long,2750.0,success
+14023,Foursquare,mobile,170.0,2009.0,San Francisco,,Invalid lat and long,147000.0,success
+14032,ITDatabase,software,12.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.437716, 37.778545]}",success,0.0,success2
+14078,SuperSecret,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.3956019, 37.7775896]}",success,10000.0,success
+14133,Fiabee,network_hosting,15.0,2008.0,San Francisco,,Invalid lat and long,0.0,success2
+14140,ividence,advertising,30.0,2008.0,San Francisco,,Invalid lat and long,9700.0,success
+14143,IBWIRE Inc,advertising,,2009.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4030739, 37.7944822]}",success,0.0,success2
+14176,Home-Account,finance,10.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.391686, 37.778551]}",success,1000.0,success
+14191,MCLA The Lax Mag,other,3.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.434564, 37.783993]}",success,0.0,success2
+14248,TechSoup Global,other,,1987.0,San Francisco,,Invalid lat and long,0.0,success2
+14254,Zelos Group,mobile,,,San Francisco,,Invalid lat and long,0.0,success2
+14257,MarkMonitor,security,,1999.0,San Francisco,,Invalid lat and long,12000.0,success
+14324,Fan Centric,web,9.0,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3968175, 37.7805399]}",success,0.0,success2
+14341,Pict,ecommerce,5.0,2012.0,San Francisco,,Invalid lat and long,1400.0,success
+14485,Groxis,,,2001.0,San Francisco,,Invalid lat and long,4000.0,success
+14496,One Kings Lane,ecommerce,,2009.0,San Francisco,,Invalid lat and long,113000.0,success
+14498,CleanTechies,cleantech,3.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4438929, 37.7717185]}",success,0.0,success2
+14606,CogniSign,software,,,San Francisco,,Invalid lat and long,0.0,success2
+14625,Basho Technologies,software,110.0,2007.0,San Francisco,,Invalid lat and long,29900.0,success
+14643,CoTweet,advertising,18.0,2009.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3764714, 37.7405936]}",success,1100.0,success
+14702,Bomgar,software,150.0,2003.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.398126, 37.791128]}",success,11000.0,success
+14786,Fluid,ecommerce,125.0,1999.0,San Francisco,,Invalid lat and long,24000.0,success
+14792,Twazzup,web,,2009.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+14839,Samasource,enterprise,25.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.401803, 37.778991]}",success,1210.0,success
+14846,Kaseya,software,400.0,2000.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.39339, 37.791575]}",success,0.0,success2
+14853,Thrillcall,web,,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.401497, 37.792324]}",success,0.0,success2
+14888,MyCollegeCalendar,web,12.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4099154, 37.7726402]}",success,0.0,success2
+14904,Zencoder,software,10.0,2007.0,San Francisco,,Invalid lat and long,2000.0,success
+14917,Shopseen,ecommerce,2.0,2013.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.214897, 37.772323]}",success,0.0,success2
+14957,Riviera Partners,other,80.0,2002.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3938931, 37.7766184]}",success,0.0,success2
+14975,vLinx,other,25.0,2002.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4134434, 37.8047037]}",success,0.0,success2
+15016,myGreek,web,10.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.42044, 37.772287]}",success,0.0,success2
+15203,Bamboudesign,mobile,2.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.415199, 37.775087]}",success,0.0,success2
+15210,PB Strategic Consultancy,mobile,5.0,1999.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4184108, 37.7581148]}",success,0.0,success2
+15212,Bluewolf,consulting,300.0,2000.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.394, 37.79215]}",success,0.0,success2
+15247,Birst,enterprise,150.0,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.404113, 37.789471]}",success,64000.0,success
+15270,NaturalMotion,games_video,150.0,2001.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3989996, 37.7875304]}",success,0.0,success2
+15334,Mashape,enterprise,15.0,2010.0,San Francisco,,Invalid lat and long,1600.0,success
+15358,LendingKarma,legal,1.0,2009.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4186, 37.7753]}",success,0.0,success2
+15412,Huge,consulting,600.0,1999.0,San Francisco,,Invalid lat and long,0.0,success2
+15469,vivid studios,web,,,San Francisco,,Invalid lat and long,0.0,success2
+15479,Netbiscuits,mobile,145.0,2000.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4264417, 37.7550372]}",success,27000.0,success
+15525,Nextstop,web,,2009.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4025976, 37.7710177]}",success,0.0,success2
+15545,Square,mobile,600.0,2009.0,San Francisco,,Invalid lat and long,341000.0,success
+15557,ArcTouch,mobile,45.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.392343, 37.779868]}",success,0.0,success2
+15577,Fotomoto,ecommerce,,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3948712, 37.7795014]}",success,1820.0,success
+15670,Breakaway Communications,public_relations,20.0,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.392342, 37.782862]}",success,0.0,success2
+15722,Velti,mobile,,2001.0,San Francisco,,Invalid lat and long,32000.0,success
+15740,Miyowa,mobile,70.0,2003.0,San Francisco,,Invalid lat and long,10900.0,success
+15778,SimpleGeo,advertising,25.0,2009.0,San Francisco,,Invalid lat and long,9810.0,success
+15804,Canopy Financial,finance,100.0,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.392148, 37.791388]}",success,89500.0,success
+15827,AppNinjas,mobile,1.0,2009.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4000032, 37.7983181]}",success,0.0,success2
+15873,ContinuumGlobal,other,100.0,2003.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3942549, 37.7824672]}",success,0.0,success2
+15890,Marketcetera,software,,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4008487, 37.788864]}",success,4000.0,success
+15899,FanBridge,games_video,,2006.0,San Francisco,,Invalid lat and long,2350.0,success
+15924,gdgt,hardware,17.0,2009.0,San Francisco,,Invalid lat and long,3720.0,success
+15940,RainStor,analytics,40.0,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-2.235187, 51.865488]}",success,26300.0,success
+15964,Playboox,software,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.4000192, 37.7870283]}",success,3000.0,success
+16014,PlantSense,web,,2006.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4183929, 37.7697623]}",success,8660.0,success
+16100,Sephora USA,other,,1998.0,San Francisco,,Invalid lat and long,0.0,success2
+16114,Topsy Labs,analytics,45.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,35200.0,success
+16126,Five Prime Therapeutics,biotech,,2002.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.393799, 37.7676285]}",success,117000.0,success
+16166,Motally,mobile,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.3921131, 37.7818188]}",success,750.0,success
+16179,Ecast,games_video,,1999.0,San Francisco,,Invalid lat and long,30300.0,success
+16229,Funji,games_video,,2008.0,San Francisco,,Invalid lat and long,0.0,success2
+16242,Life360,mobile,40.0,2008.0,San Francisco,,Invalid lat and long,26100.0,success
+16284,Fliptop,enterprise,16.0,2010.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419209, 37.775206]}",success,6790.0,success
+16334,Mamapedia,,,2004.0,San Francisco,,Invalid lat and long,4600.0,success
+16365,Sunrun,cleantech,180.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4041075, 37.7871306]}",success,337000.0,success
+16383,sipgate,public_relations,4.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4020588, 37.7919639]}",success,0.0,success2
+16488,OpenAmplify,software,30.0,,San Francisco,,Invalid lat and long,0.0,success2
+16495,Netcentives,other,496.0,,San Francisco,,Invalid lat and long,0.0,success2
+16523,Informatix,software,,1986.0,San Francisco,,Invalid lat and long,0.0,success2
+16538,ACT Biotech,biotech,,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4041075, 37.7871306]}",success,27000.0,success
+16546,Sauce Labs,enterprise,40.0,2008.0,San Francisco,,Invalid lat and long,14000.0,success
+16553,GottaPark,web,9.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4011603, 37.7868333]}",success,600.0,success
+16585,Talent Basket,other,3.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+16606,ReTargeter,advertising,,2009.0,San Francisco,,Invalid lat and long,825.0,success
+16614,Urban Airship,mobile,165.0,2009.0,San Francisco,,Invalid lat and long,46600.0,success
+16645,Duane Morris LLP,legal,,,San Francisco,,Invalid lat and long,0.0,success2
+16653,L'Atelier BNP Paribas,consulting,35.0,1978.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.3882112, 37.7577648]}",success,0.0,success2
+16680,See's Candies,other,,1921.0,San Francisco,,Invalid lat and long,0.0,success2
+16707,Viator,web,,1995.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.40084, 37.78671]}",success,0.0,success2
+16715,Finest Expert,web,3.0,2009.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,0.0,success2
+16733,Recurrent Energy,cleantech,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.404448, 37.805289]}",success,85000.0,success
+16786,One Simple Move,web,4.0,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.402922, 37.800482]}",success,0.0,success2
+16865,Brondell,manufacturing,,2003.0,San Francisco,,Invalid lat and long,0.0,success2
+16890,Sega,games_video,,1940.0,San Francisco,,Invalid lat and long,0.0,success2
+16912,Vevo,games_video,,2009.0,San Francisco,,Invalid lat and long,0.0,success2
+16972,Informatix Laboratories Corporation,consulting,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.4021273, 37.7923058]}",success,0.0,success2
+17057,Sticher,games_video,,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4166061, 37.8093381]}",success,100.0,success
+17083,Autonomic Technologies,medical,,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,55000.0,success
+17173,Context Optional,other,45.0,2006.0,San Francisco,,Invalid lat and long,0.0,success2
+17200,Osprey Pharmaceuticals USA,biotech,,1998.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,16900.0,success
+17221,UTOPY,software,40.0,1999.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.411157, 37.767575]}",success,7500.0,success
+17326,Eba Systems,mobile,,,San Francisco,,Invalid lat and long,0.0,success2
+17368,Siluria Technologies,nanotech,,2008.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.1802812, 37.4484914]}",success,103000.0,success
+17377,SuperFan,web,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.404121, 37.790024]}",success,0.0,success2
+17393,Bigpoint,games_video,500.0,2002.0,San Francisco,,Invalid lat and long,457800.0,success
+17415,ZoomSystems,hardware,100.0,2002.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.391061, 37.781689]}",success,87000.0,success
+17437,Exent,games_video,100.0,1992.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.402759, 37.787646]}",success,3000.0,success
+17540,Scout Labs,enterprise,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",success,4000.0,success
+17546,Rassak Experience,public_relations,,,San Francisco,,Invalid lat and long,0.0,success2
+17624,Mondo Media,games_video,9.0,1983.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.402021, 37.764169]}",success,0.0,success2
+17711,TwtBks,web,3.0,2009.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4160008, 37.7611016]}",success,25.0,success
+17865,Quantal,,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.398634, 37.790947]}",success,0.0,success2
+17927,Nexant,software,,2000.0,San Francisco,,Invalid lat and long,82500.0,success
+17963,TeachScape,software,,1999.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4043924, 37.7869047]}",success,16000.0,success
+18006,Calypso Technology,software,386.0,1997.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.400655, 37.789318]}",success,0.0,success2
+18136,Cybersource,enterprise,,,San Francisco,,Invalid lat and long,0.0,success2
+18149,Roc2Loc,cleantech,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.407764, 37.782475]}",success,2000.0,success
+18154,Fuze Box,software,120.0,2009.0,San Francisco,,Invalid lat and long,0.0,success2
+18238,Danoo,advertising,,2005.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4008634, 37.7888523]}",success,0.0,success2
+18265,UCWeb,software,1700.0,2004.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4013217, 37.7814765]}",success,0.0,success2
+18396,Grassroots,public_relations,,,San Francisco,"{'type': 'Point', 'coordinates': [-122.40185, 37.790346]}",success,0.0,success2
+18523,DJ Nitrogen,games_video,8.0,2007.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.4494082, 37.7841737]}",success,0.0,success2
+18526,G5 Entertainment,games_video,107.0,2006.0,San Francisco,,Invalid lat and long,0.0,success2
+18587,Embarcadero Technologies,software,450.0,1993.0,San Francisco,"{'type': 'Point', 'coordinates': [-122.398062, 37.793949]}",success,0.0,success2
+18671,Lift Media,ecommerce,,2008.0,San Francisco,,Invalid lat and long,0.0,success2
