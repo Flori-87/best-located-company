@@ -1,3 +1,6 @@
 companies.json
 .ipynb_checkpoints
 .env
+__pycache__
+companiesSF.json
+shops.json
