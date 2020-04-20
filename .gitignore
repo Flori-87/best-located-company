@@ -4,3 +4,5 @@ companies.json
 __pycache__
 companiesSF.json
 shops.json
+small_companies.json
+large_companies.json
