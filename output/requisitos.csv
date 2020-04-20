@@ -1,46 +1,47 @@
-,category,location
-0,airport,"{'type': 'Point', 'coordinates': [-122.422096, 37.796758]}"
-0,Starbucks,"{'type': 'Point', 'coordinates': [-122.4042684, 37.7928135]}"
-1,Starbucks,"{'type': 'Point', 'coordinates': [-122.38783, 37.741198]}"
-2,Starbucks,"{'type': 'Point', 'coordinates': [-122.40385, 37.78446]}"
-3,Starbucks,"{'type': 'Point', 'coordinates': [-122.406831, 37.789348]}"
-4,Starbucks,"{'type': 'Point', 'coordinates': [-122.438964, 37.74359]}"
-5,Starbucks,"{'type': 'Point', 'coordinates': [-122.409623, 37.766884]}"
-6,Starbucks,"{'type': 'Point', 'coordinates': [-122.422065, 37.790218]}"
-7,Starbucks,"{'type': 'Point', 'coordinates': [-122.392268, 37.791311]}"
-8,Starbucks,"{'type': 'Point', 'coordinates': [-122.409094, 37.786145]}"
-9,Starbucks,"{'type': 'Point', 'coordinates': [-122.431709, 37.751341]}"
-10,Starbucks,"{'type': 'Point', 'coordinates': [-122.467331, 37.739714]}"
-11,Starbucks,"{'type': 'Point', 'coordinates': [-122.430395, 37.797644]}"
-12,Starbucks,"{'type': 'Point', 'coordinates': [-122.40576, 37.790431]}"
-13,Starbucks,"{'type': 'Point', 'coordinates': [-122.431519, 37.78273799999999]}"
-14,Starbucks,"{'type': 'Point', 'coordinates': [-122.4563688, 37.7641827]}"
-15,Starbucks,"{'type': 'Point', 'coordinates': [-122.41285, 37.80842]}"
-16,Starbucks,"{'type': 'Point', 'coordinates': [-122.4034092, 37.7884614]}"
-17,Starbucks,"{'type': 'Point', 'coordinates': [-122.4172872, 37.7770432]}"
-18,Starbucks,"{'type': 'Point', 'coordinates': [-122.402728, 37.794632]}"
-19,Starbucks,"{'type': 'Point', 'coordinates': [-122.422096, 37.796758]}"
-0,pub,"{'type': 'Point', 'coordinates': [-122.4220047, 37.7961298]}"
-1,pub,"{'type': 'Point', 'coordinates': [-122.4206407, 37.7554939]}"
-2,pub,"{'type': 'Point', 'coordinates': [-122.4052746, 37.7306713]}"
-3,pub,"{'type': 'Point', 'coordinates': [-122.4100374, 37.77526599999999]}"
-4,pub,"{'type': 'Point', 'coordinates': [-122.4212979, 37.7604864]}"
-5,pub,"{'type': 'Point', 'coordinates': [-122.4088611, 37.7757722]}"
-6,pub,"{'type': 'Point', 'coordinates': [-122.4143364, 37.7713726]}"
-7,pub,"{'type': 'Point', 'coordinates': [-122.4085, 37.7809861]}"
-8,pub,"{'type': 'Point', 'coordinates': [-122.413792, 37.771362]}"
-9,pub,"{'type': 'Point', 'coordinates': [-122.4094049, 37.7816898]}"
-10,pub,"{'type': 'Point', 'coordinates': [-122.4204128, 37.7881262]}"
-11,pub,"{'type': 'Point', 'coordinates': [-122.414007, 37.7715869]}"
-12,pub,"{'type': 'Point', 'coordinates': [-122.4193399, 37.75526]}"
-13,pub,"{'type': 'Point', 'coordinates': [-122.4064201, 37.7890233]}"
-14,pub,"{'type': 'Point', 'coordinates': [-122.3981969, 37.7885694]}"
-15,pub,"{'type': 'Point', 'coordinates': [-122.420771, 37.754529]}"
-16,pub,"{'type': 'Point', 'coordinates': [-122.4190216, 37.7603652]}"
-17,pub,"{'type': 'Point', 'coordinates': [-122.4134032, 37.7656245]}"
-18,pub,"{'type': 'Point', 'coordinates': [-122.433329, 37.764394]}"
-19,pub,"{'type': 'Point', 'coordinates': [-122.4144444, 37.7719444]}"
-0,vegan rest,"{'type': 'Point', 'coordinates': [-122.4636464, 37.764364]}"
-1,vegan rest,"{'type': 'Point', 'coordinates': [-122.4221595, 37.7646261]}"
-2,vegan rest,"{'type': 'Point', 'coordinates': [-122.4464842, 37.7702039]}"
-3,vegan rest,"{'type': 'Point', 'coordinates': [-122.4317498, 37.7973935]}"
+,category,name,location,latitude,longitude
+0,airport,San Francisco International Airport,"{'type': 'Point', 'coordinates': [-122.3789554, 37.6213129]}",37.6213129,-122.3789554
+0,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.4042684, 37.7928135]}",37.7928135,-122.4042684
+1,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.38783, 37.741198]}",37.741198,-122.38783
+2,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.40385, 37.78446]}",37.78446,-122.40385
+3,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.406831, 37.789348]}",37.789348,-122.406831
+4,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.438964, 37.74359]}",37.74359,-122.438964
+5,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.409623, 37.766884]}",37.766884,-122.409623
+6,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.422065, 37.790218]}",37.790218,-122.422065
+7,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.431709, 37.751341]}",37.751341,-122.431709
+8,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.392268, 37.791311]}",37.791311,-122.392268
+9,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.409094, 37.786145]}",37.786145,-122.409094
+10,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.430395, 37.797644]}",37.797644,-122.430395
+11,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.40576, 37.790431]}",37.790431,-122.40576
+12,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.467331, 37.739714]}",37.739714,-122.467331
+13,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.431519, 37.78273799999999]}",37.78273799999999,-122.431519
+14,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.4563688, 37.7641827]}",37.7641827,-122.4563688
+15,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.41285, 37.80842]}",37.80842,-122.41285
+16,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.4034092, 37.7884614]}",37.7884614,-122.4034092
+17,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.4172872, 37.7770432]}",37.7770432,-122.4172872
+18,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.428353, 37.769122]}",37.769122,-122.428353
+19,Starbucks,Starbucks,"{'type': 'Point', 'coordinates': [-122.402728, 37.794632]}",37.794632,-122.402728
+0,pub,Rouge Night Club,"{'type': 'Point', 'coordinates': [-122.4220047, 37.7961298]}",37.7961298,-122.4220047
+1,pub,Raven Bar,"{'type': 'Point', 'coordinates': [-122.4088611, 37.7757722]}",37.7757722,-122.4088611
+2,pub,Monarch,"{'type': 'Point', 'coordinates': [-122.4085, 37.7809861]}",37.7809861,-122.4085
+3,pub,OMG,"{'type': 'Point', 'coordinates': [-122.4094049, 37.7816898]}",37.7816898,-122.4094049
+4,pub,Calle-11sf Nightclub,"{'type': 'Point', 'coordinates': [-122.414007, 37.7715869]}",37.7715869,-122.414007
+5,pub,Latin American Club,"{'type': 'Point', 'coordinates': [-122.4206407, 37.7554939]}",37.7554939,-122.4206407
+6,pub,Make-Out Room,"{'type': 'Point', 'coordinates': [-122.4193399, 37.75526]}",37.75526,-122.4193399
+7,pub,El Valenciano,"{'type': 'Point', 'coordinates': [-122.420771, 37.754529]}",37.754529,-122.420771
+8,pub,El Toro Night Club,"{'type': 'Point', 'coordinates': [-122.4052746, 37.7306713]}",37.7306713,-122.4052746
+9,pub,OASIS,"{'type': 'Point', 'coordinates': [-122.4144444, 37.7719444]}",37.7719444,-122.4144444
+10,pub,F8 Nightclub & Bar,"{'type': 'Point', 'coordinates': [-122.4100374, 37.77526599999999]}",37.77526599999999,-122.4100374
+11,pub,Space 550,"{'type': 'Point', 'coordinates': [-122.404738, 37.7398613]}",37.7398613,-122.404738
+12,pub,The Chapel,"{'type': 'Point', 'coordinates': [-122.4212979, 37.7604864]}",37.7604864,-122.4212979
+13,pub,The Holy Cow,"{'type': 'Point', 'coordinates': [-122.4143364, 37.7713726]}",37.7713726,-122.4143364
+14,pub,Audio Nightclub,"{'type': 'Point', 'coordinates': [-122.413792, 37.771362]}",37.771362,-122.413792
+15,pub,San Francisco Badlands,"{'type': 'Point', 'coordinates': [-122.4355306, 37.7607028]}",37.7607028,-122.4355306
+16,pub,Lush Lounge,"{'type': 'Point', 'coordinates': [-122.4204128, 37.7881262]}",37.7881262,-122.4204128
+17,pub,Love + Propaganda,"{'type': 'Point', 'coordinates': [-122.4064201, 37.7890233]}",37.7890233,-122.4064201
+18,pub,Harlot,"{'type': 'Point', 'coordinates': [-122.3981969, 37.7885694]}",37.7885694,-122.3981969
+19,pub,SWIG,"{'type': 'Point', 'coordinates': [-122.4125, 37.7866667]}",37.7866667,-122.4125
+0,vegan rest,Loving Hut Vegan Restaurant,"{'type': 'Point', 'coordinates': [-122.4636464, 37.764364]}",37.764364,-122.4636464
+1,vegan rest,Indochine Vegan,"{'type': 'Point', 'coordinates': [-122.4221595, 37.7646261]}",37.7646261,-122.4221595
+2,vegan rest,VeganBurg San Francisco,"{'type': 'Point', 'coordinates': [-122.4464842, 37.7702039]}",37.7702039,-122.4464842
+3,vegan rest,Shizen Vegan Sushi Bar and Izakaya,"{'type': 'Point', 'coordinates': [-122.4216815, 37.7683125]}",37.7683125,-122.4216815
+4,vegan rest,Vegan Picnic,"{'type': 'Point', 'coordinates': [-122.4317498, 37.7973935]}",37.7973935,-122.4317498
